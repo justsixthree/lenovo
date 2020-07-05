@@ -1,0 +1,1 @@
+[04-Jul-2020 16:32:49 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eco0bkwdkc1q/public_html/projects/lenovo/index.php on line 13
